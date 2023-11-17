@@ -1,7 +1,8 @@
 # ![logo](https://user-images.githubusercontent.com/3537180/183417516-ff1615e3-6bfb-44cc-8aad-d0bd5d7b31a0.png)<br />SatellaZone
 * Trailer : https://youtu.be/3sz7-zEtvOg 
 * Discord : https://discord.gg/csSWztn6z4  
-
+## Notice: This project is no longer being worked on. MegaPika (the owner) is taking a step down from working on any projects moving forward. Thank you for helping us make this project become a reality. Keep on brewing and have a wonderful day! 
+## - The SatellaZone team
 SatellaZone is a 3DS Nintendo Zone Revival patch that allows you to access archives from different stores and restaurants such as Best Buy, AT&T, McDonalds...
 You can also access videos using the "LocalSatellaZone" version.
 You can be able to access Nintendo Zone without having to launch FBI by downloading the UsaPatch (which is for USA consoles only).
